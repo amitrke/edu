@@ -1,0 +1,20 @@
+MongoDB 2.2 database added.  Please make note of these credentials:
+
+   Root User:     admin
+   Root Password: KDuJ9B-95YGb
+   Database Name: school
+
+Connection URL: mongodb://$OPENSHIFT_MONGODB_DB_HOST:$OPENSHIFT_MONGODB_DB_PORT/
+
+
+
+Associated with job 'school-build' in Jenkins server.
+
+Jenkins created successfully.  Please make note of these credentials:
+
+   User: admin
+   Password: ywkQ45vesq61
+
+Note:  You can change your password at: https://jenkins-eduind.rhcloud.com/me/configure
+
+Your application is now building with Jenkins.
